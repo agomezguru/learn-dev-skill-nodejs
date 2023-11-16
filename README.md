@@ -4,6 +4,8 @@ Support code for "Zero to Hero: A comprehensive course to building an Alexa Skil
 
 ## Zero to Hero, Part 1: Alexa Skills Kit Overview
 
+> #### [Click to see video guide](https://youtu.be/CzTKDu7Qgjs?si=uHvQ3BYQqofXm_Cn)
+
 1. Development and Production Lambda Stages (AHS branches)
 2. Lambda Dependencies (package.json, requires in code)
 3. Handler as processor of incoming requests. Handler structure
@@ -16,6 +18,8 @@ Support code for "Zero to Hero: A comprehensive course to building an Alexa Skil
 
 ## Zero to Hero, Part 2: Skill Internationalization (i18n), Interceptors & Error Handling
 
+> #### [Click to see video guide](https://youtu.be/NXVmHWZZcjw?si=ZXM_JPFRfGPsXBZ7)
+
 1. Multiple models per locale
 2. Key/value string resources for i18n
 3. Enriching handlerInput with t function via interceptor
@@ -26,6 +30,8 @@ Support code for "Zero to Hero: A comprehensive course to building an Alexa Skil
 [Learn more](./02)
 
 ## Zero to Hero, Part 3: Slots, Slot Validation & Automatic Dialog Delegation
+
+> #### [Click to see video guide](https://youtu.be/FXcCBaYlo6U?si=QuLO7oclKdbyMoYT)
 
 1. Slots explanation
 2. Built in and custom slot types
@@ -41,6 +47,8 @@ Support code for "Zero to Hero: A comprehensive course to building an Alexa Skil
 
 ## Zero to Hero, Part 4: Persistence
 
+> #### [Click to see video guide](https://youtu.be/bGVr3C7mBts?si=xSE10fi0F4rxVtzQ)
+
 1. Session attributes
 2. Persistent attributes
 3. Persistence adapters (S3 and DynamoDB) / detect if lambda is Alexa hosted
@@ -52,6 +60,8 @@ Support code for "Zero to Hero: A comprehensive course to building an Alexa Skil
 
 ## Zero to Hero, Part 5: Accessing ASK APIs
 
+> #### [Click to see video guide](https://youtu.be/6VCA-pQrVHs?si=AbotrRHoAeqCiQ1g)
+
 1. Service API (User Profile API - given name)
 2. Settings API (timezone)
 3. SSML (speechcons and audio files)
@@ -62,6 +72,8 @@ Support code for "Zero to Hero: A comprehensive course to building an Alexa Skil
 
 ## Zero to Hero, Part 6: Reminders API
 
+> #### [Click to see video guide](https://youtu.be/2OtvOeo0fqQ?si=D_l-JyvikXdg4YoC)
+
 1. Reminders API
 2. AMAZON.SearchQuery
 3. Intent Confirmation (again)
@@ -69,6 +81,8 @@ Support code for "Zero to Hero: A comprehensive course to building an Alexa Skil
 [Learn more](./06)
 
 ## Zero to Hero, Part 7: Accessing External APIs
+
+> #### [Click to see video guide](https://youtu.be/S4Mz_8f8nzg?si=jdRM-uWYgpMFUkcC)
 
 1. Fetch external API (async/await)
 2. Progressive Response
